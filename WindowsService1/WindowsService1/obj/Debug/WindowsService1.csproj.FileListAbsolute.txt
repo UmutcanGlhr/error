@@ -33,7 +33,6 @@ C:\Users\asus\source\repos\WindowsService1\WindowsService1\bin\Debug\System.Text
 C:\Users\asus\source\repos\WindowsService1\WindowsService1\bin\Debug\System.Threading.Channels.xml
 C:\Users\asus\source\repos\WindowsService1\WindowsService1\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\asus\source\repos\WindowsService1\WindowsService1\bin\Debug\System.ValueTuple.xml
-C:\Users\asus\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.AssemblyReference.cache
 C:\Users\asus\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
 C:\Users\asus\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CopyComplete
 C:\Users\asus\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
